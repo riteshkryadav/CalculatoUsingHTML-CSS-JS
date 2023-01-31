@@ -1,0 +1,39 @@
+body {
+text-align: center;
+}
+
+.container{
+    text-align: center;
+    display: inline-block;
+    padding: 30px;
+    background-color: #c775e4;
+    border: 2px solid #019d7b;
+    border-radius: 7px;
+}
+
+#result{
+    width: 95%;
+    height: 50px;
+    font-size: larger;
+    border-radius: 5px;
+    border: 2px solid #019d7b;
+    
+}
+
+
+button{
+    padding: 20px;
+    font-size: larger;
+    background-color: rgba(234, 152, 152, 0.675);
+    border-radius: 5px;
+    box-shadow: 3px yellow;
+}
+
+.result{
+    background-color: #09b91e;
+}
+
+
+/* table{
+    margin: 50px;
+} */
